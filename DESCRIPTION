@@ -1,0 +1,11 @@
+Package: pcapred.ref
+Type: Package
+Title: Provides 18 PCs for the UK Biobank with loadings and allele frequencies
+Version: 0.1.0
+Authors@R: person("Daniel", "Lawson", email = "dan.lawson@bristol.ac.uk", role = c("aut", "cre"))
+Description: Use with package "pcapred", available at https://github.com/danjlawson/pcapred. Provides 18 PCs from the UK Biobank as reference data, as well as a small subset from 1000 Genomes for use as a bim/bed/fam plink format example dataset.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+RoxygenNote: 7.0.1
