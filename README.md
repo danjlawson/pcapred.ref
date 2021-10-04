@@ -1,4 +1,4 @@
-# R Package pcapred.ref
+# R Package *pcapred.ref*
 
 This is a data repository for use with the R package [pcapred](https://github.com/danjlawson/pcapred). You should install that package which should automatically download this package for you.
 
